@@ -11,3 +11,5 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",A24 (720p)
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Undefined",TN,AR | TN
+https://www.youtube.com/watch?v=cb12KmMMDJA
